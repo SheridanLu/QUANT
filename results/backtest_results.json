@@ -1,0 +1,192 @@
+{
+  "timestamp": "2026-03-03T08:13:15.292485",
+  "data_info": {
+    "stocks": 19,
+    "records": 89087,
+    "date_range": "1998-06-01 ~ 2026-03-02"
+  },
+  "strategies": [
+    {
+      "total_return": -0.21819379727209132,
+      "annual_return": -0.006101024102985186,
+      "max_drawdown": -0.22075768501233842,
+      "sharpe_ratio": -1.263677585325635,
+      "win_rate": 0.4401805869074492,
+      "total_trades": 1329,
+      "params": {
+        "name": "\u77ed\u7ebf_1",
+        "mom_threshold": 0.03,
+        "position_size": 0.05,
+        "stop_loss": 0.02,
+        "take_profit": 0.03,
+        "max_vol": 0.35,
+        "holding_days": 1
+      },
+      "name": "\u77ed\u7ebf_1"
+    },
+    {
+      "total_return": -0.12195207054139534,
+      "annual_return": -0.003228167390559311,
+      "max_drawdown": -0.13961907886535674,
+      "sharpe_ratio": -0.5268557953159552,
+      "win_rate": 0.4872495446265938,
+      "total_trades": 1098,
+      "params": {
+        "name": "\u77ed\u7ebf_2",
+        "mom_threshold": 0.04,
+        "position_size": 0.05,
+        "stop_loss": 0.03,
+        "take_profit": 0.04,
+        "max_vol": 0.4,
+        "holding_days": 2
+      },
+      "name": "\u77ed\u7ebf_2"
+    },
+    {
+      "total_return": -0.12878624139779304,
+      "annual_return": -0.003421787635485174,
+      "max_drawdown": -0.1934717503247734,
+      "sharpe_ratio": -0.29400474318498776,
+      "win_rate": 0.4898354307841239,
+      "total_trades": 1033,
+      "params": {
+        "name": "\u6ce2\u6bb5_3",
+        "mom_threshold": 0.04,
+        "position_size": 0.08,
+        "stop_loss": 0.05,
+        "take_profit": 0.08,
+        "max_vol": 0.4,
+        "holding_days": 3
+      },
+      "name": "\u6ce2\u6bb5_3"
+    },
+    {
+      "total_return": 0.030048165373509628,
+      "annual_return": 0.0007363208761392848,
+      "max_drawdown": -0.23811065583883903,
+      "sharpe_ratio": 0.04606793885117589,
+      "win_rate": 0.5005586592178771,
+      "total_trades": 895,
+      "params": {
+        "name": "\u6ce2\u6bb5_4",
+        "mom_threshold": 0.05,
+        "position_size": 0.1,
+        "stop_loss": 0.06,
+        "take_profit": 0.1,
+        "max_vol": 0.45,
+        "holding_days": 4
+      },
+      "name": "\u6ce2\u6bb5_4"
+    },
+    {
+      "total_return": 0.23235528627471247,
+      "annual_return": 0.005207836665495957,
+      "max_drawdown": -0.13506034527742253,
+      "sharpe_ratio": 0.15599119845945708,
+      "win_rate": 0.5108583247156153,
+      "total_trades": 969,
+      "params": {
+        "name": "\u6ce2\u6bb5_5",
+        "mom_threshold": 0.05,
+        "position_size": 0.1,
+        "stop_loss": 0.08,
+        "take_profit": 0.12,
+        "max_vol": 0.5,
+        "holding_days": 5
+      },
+      "name": "\u6ce2\u6bb5_5"
+    },
+    {
+      "total_return": 3.528893319140323,
+      "annual_return": 0.038267346393426216,
+      "max_drawdown": -0.2040466826476949,
+      "sharpe_ratio": 0.5953009468267457,
+      "win_rate": 0.4559023066485753,
+      "total_trades": 742,
+      "params": {
+        "name": "\u4e2d\u7ebf_1",
+        "mom_threshold": 0.03,
+        "position_size": 0.1,
+        "stop_loss": 0.06,
+        "take_profit": 0.12,
+        "max_vol": 0.45,
+        "holding_days": 0
+      },
+      "name": "\u4e2d\u7ebf_1"
+    },
+    {
+      "total_return": 5.371813291093824,
+      "annual_return": 0.04711767399021349,
+      "max_drawdown": -0.23559800852935212,
+      "sharpe_ratio": 0.5633705428127148,
+      "win_rate": 0.4700854700854701,
+      "total_trades": 590,
+      "params": {
+        "name": "\u4e2d\u7ebf_2",
+        "mom_threshold": 0.04,
+        "position_size": 0.12,
+        "stop_loss": 0.08,
+        "take_profit": 0.15,
+        "max_vol": 0.5,
+        "holding_days": 0
+      },
+      "name": "\u4e2d\u7ebf_2"
+    },
+    {
+      "total_return": 0.9124492067227075,
+      "annual_return": 0.016250691470176104,
+      "max_drawdown": -0.1437795694392075,
+      "sharpe_ratio": 0.4945091926819927,
+      "win_rate": 0.44880174291938996,
+      "total_trades": 462,
+      "params": {
+        "mom_threshold": 0.05,
+        "position_size": 0.08,
+        "stop_loss": 0.05,
+        "take_profit": 0.1,
+        "max_vol": 0.35,
+        "holding_days": 0
+      },
+      "name": "\u98ce\u63a7_\u4e25\u683c"
+    }
+  ],
+  "best_by_condition": {
+    "\u56de\u64a4<15%": "\u98ce\u63a7_\u4e25\u683c",
+    "\u56de\u64a4<20%": "\u98ce\u63a7_\u4e25\u683c",
+    "\u590f\u666e>0.5": "\u4e2d\u7ebf_1"
+  },
+  "market_periods": {
+    "early": {
+      "total_return": 0.6117293193219036,
+      "annual_return": 0.017963092448570084,
+      "max_drawdown": -0.07554473344693678,
+      "sharpe_ratio": 0.5343949100749987,
+      "win_rate": 0.4608695652173913,
+      "total_trades": 232,
+      "params": {
+        "mom_threshold": 0.05,
+        "position_size": 0.08,
+        "stop_loss": 0.05,
+        "take_profit": 0.1,
+        "max_vol": 0.35,
+        "holding_days": 0
+      }
+    },
+    "late": {
+      "total_return": 0.19100108505920077,
+      "annual_return": 0.013121187585530159,
+      "max_drawdown": -0.14376793145715294,
+      "sharpe_ratio": 0.4208912987080134,
+      "win_rate": 0.43612334801762115,
+      "total_trades": 230,
+      "params": {
+        "mom_threshold": 0.05,
+        "position_size": 0.08,
+        "stop_loss": 0.05,
+        "take_profit": 0.1,
+        "max_vol": 0.35,
+        "holding_days": 0
+      }
+    }
+  }
+}
